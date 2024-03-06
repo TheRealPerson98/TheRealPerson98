@@ -3,13 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealperson98" alt="therealperson98" /></a> </p>
 
-- 🔭 I’m currently working on [BlockBattles](https://github.com/TheRealPerson98/BlockBattles)
+- Working with StellarDev
 
-- I have worked on [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+- 🔭 I’m currently working on SGlow
+- I have worked on [PlayerPoof]([https://github.com/elebumm/RedditVideoMakerBot](https://playerpoof.com/))
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Person98#0001**
+- 📫 How to reach me **Person98**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
