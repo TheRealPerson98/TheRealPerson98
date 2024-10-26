@@ -2,7 +2,7 @@
 <h3 align="center">A developer who specializes in creating plugins for Minecraft and serves as the official developer for Block Battles, SlimeBall, and FIFA Craft.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealperson98" alt="therealperson98" /></a> </p>
-
+[![wakatime](https://wakatime.com/badge/user/80be4b94-ed4a-495e-b33b-d5c0449c7f35.svg)](https://wakatime.com/@80be4b94-ed4a-495e-b33b-d5c0449c7f35)
 - Working with StellarDev
 
 - 🔭 I’m currently working on SGlow
