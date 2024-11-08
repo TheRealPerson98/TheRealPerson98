@@ -2,11 +2,12 @@
   <a href="https://github.com/TheRealPerson98">
     <img src="https://github-svg.person98.com/?font=Fira+Code&weight=900&size=30&pause=1000&color=7600BD&center=true&vCenter=true&repeat=false&width=435&lines=Jace+Sleeman" alt="Jace Sleeman" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/TheRealPerson98">
     <img src="https://github-svg.person98.com?font=Fira+Code&weight=900&size=20&pause=1000&color=7600BD&center=true&vCenter=true&repeat=false&width=435&lines=Java+developer+of+7%2B+years" alt="Jace Sleeman" />
   </a>
-</p>
-
+  </p>
 <p align="center">
   <b>Full time developer at <a href="https://discord.gg/blaze">Blaze Gaming</a></b><br>
   <b>Visit my <a href="https://person98.com/">website</a></b>
