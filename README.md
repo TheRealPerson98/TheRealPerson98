@@ -57,5 +57,5 @@
   <br /><br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealperson98&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
   <br /><br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealperson98&theme=dracula" alt="GitHub Streak Stats" />
+  [![GitHub Streak](https://github-readme-streak-stats-nine-pink.vercel.app?user=TheRealPerson98&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
