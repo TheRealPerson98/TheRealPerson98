@@ -12,9 +12,6 @@
   <a href="https://x.com/MainPerson98">
     <img src="https://img.shields.io/badge/Twitter-@MainPerson98-7600BD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://discord.gg/minewebinnovations">
-    <img src="https://img.shields.io/badge/Discord-Join_Server-7600BD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 
 ## 💼 Professional Experience
